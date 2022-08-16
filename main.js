@@ -188,22 +188,3 @@ function filtrarProductosPorCategoria(categoria) {
       </div>`;
   })
 }
-
-
-// // Función de borrado del carrito
-// function eliminarDelCarrito(productoId) {
-//   const prod = carrito.find((producto) => producto.id == productoId)
-//   let i = carrito.indexOf(prod)
-//   if (i != -1) carrito.splice(i, 1) // como es en una sola linea, borré las {}, como comentó el profe
-//   const costoTotal = carrito.reduce((total, producto) => total + producto.price, 0)
-//   escribirCarrito(costoTotal)
-//   CarritoPopUp()
-//   document.getElementById("alFin").innerHTML = `<h1 class="display-4 fw-bolder">Al Fin, funciona todo!🥳</h1>
-//   <p class="lead fw-normal text-white-50 mb-0">Por favor, apruébeme🙏🏼</p>`
-//   if(carrito.length == 0){Swal.fire({
-//       icon: 'success',
-//       title: 'Limpio!',
-//       text: 'El carrito está vacío',
-//   })}
-// }
-
