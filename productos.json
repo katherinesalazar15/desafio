@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1, 
+        "title": "Pollera Sofia",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBalmNIoUdA2eAc0tCwnAlNZHAtJelc3dyVA&usqp=CAU",
+        "price": 1200,
+        "category": "Parte de abajo"
+    },
+    {
+        "id": 2, 
+        "title": "Remera Umma",
+        "img": "https://img.ar.class.posot.com/es_ar/2017/09/14/Remeras-Gucci-Levis-Fila-Tommy-tendencia-20170914112949.jpg", 
+        "price": 1000,
+        "category": "Parte de arriba"
+    },
+    {
+        "id": 3, 
+        "title": "Pantalón Berlin", 
+        "img": "https://ae01.alicdn.com/kf/H18e87f3254df48118a6432ca7f8a3bd0w/Pantalones-de-sastre-con-detalles-plisados-para-mujer.jpg_Q90.jpg_.webp",
+        "price": 3500,
+        "category": "Parte de abajo"
+    },
+    {
+        "id": 4, 
+        "title": "Short Melina", 
+        "img": "https://images-na.ssl-images-amazon.com/images/I/51ztXJf3M-S._AC_UL604_SR604,400_.jpg",
+        "price": 2000,
+        "category": "Parte de abajo"
+    }
+]
